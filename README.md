@@ -7,14 +7,7 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
@@ -25,47 +18,67 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+
+  <!-- Frameworks / Libraries -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo"  />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo"  />
+
+  <!-- Cloud / DevOps -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+
+  <!-- Databases -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+
+  <!-- Tools -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
 </div>
 
 ###
