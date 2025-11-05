@@ -92,7 +92,7 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
-  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=booru-smtg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
