@@ -97,15 +97,15 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xcho7i/xcho7i/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xcho7i/xcho7i/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xcho7i/xcho7i/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 <h2 align="center">Profile View</h1>
 <div align="center">
-  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:RikuSato0?name=%3ARikuSato0&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0"  />
 </div>
 
 ###
