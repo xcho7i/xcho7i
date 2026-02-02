@@ -83,17 +83,6 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=xcho7i&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
