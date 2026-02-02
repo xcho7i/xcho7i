@@ -1,3 +1,9 @@
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xcho7i.xcho7i&"  />
+</div>
+
+###
+
 # 💫 About Me:
 Hello! I'm Jellow, a passionate JavaScript developer specializing in creating innovative web solutions and user-friendly interfaces. As the contributor of the OlovaJS UI Framework, I'm dedicated to simplifying development workflows.<br><br>My focus is on making web development faster, easier, and accessible to all developers. Currently, I'm expanding into backend development to grow as a full-stack developer and create seamless, robust web applications.<br><br>I'm a lifelong learner and innovator, driven by a desire to contribute to the developer community with new ideas and tools that deliver real value. As the creator of OlovaJS, I'm pushing the boundaries of JavaScript frameworks to empower developers worldwide.
 
@@ -92,15 +98,3 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
 </picture>
 
 ###
-<h2 align="center">Profile View</h1>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rikusato0.rikusato0&"  />
-</div>
-
-
-###
----
-[![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
