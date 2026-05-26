@@ -35,7 +35,7 @@ Hello! I'm Jellow, a passionate JavaScript developer specializing in creating in
   <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-
+  <br/>
   <!-- Frameworks / Libraries -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
